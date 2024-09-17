@@ -1,4 +1,4 @@
-package com.midtransdemo
+package com.freshly
 
 import android.app.Application
 import com.facebook.react.PackageList
