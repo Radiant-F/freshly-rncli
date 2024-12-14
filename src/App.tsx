@@ -4,7 +4,7 @@ import {Provider} from 'react-redux';
 import {store} from './redux/store';
 
 export default function App() {
-  console.log('presence app :(')
+  console.log('im trying to keep up with the github presence consistency')
   return (
     <Provider store={store}>
       <NavigationContainer>
