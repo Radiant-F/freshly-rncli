@@ -4,7 +4,7 @@ import {Provider} from 'react-redux';
 import {store} from './redux/store';
 
 export default function App() {
-  console.log('im trying to keep up with the github presence consistency')
+  console.log('pushing something from a branch other than main branch doesnt count as contribution?')
   return (
     <Provider store={store}>
       <NavigationContainer>
