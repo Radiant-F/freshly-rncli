@@ -4,7 +4,7 @@ import {Provider} from 'react-redux';
 import {store} from './redux/store';
 
 export default function App() {
-  console.log('ruh roh')
+  console.log('not in my project')
   return (
     <Provider store={store}>
       <NavigationContainer>
