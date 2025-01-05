@@ -4,7 +4,7 @@ import {Provider} from 'react-redux';
 import {store} from './redux/store';
 
 export default function App() {
-  console.log('happy new year!')
+  console.log('feeling meh')
   return (
     <Provider store={store}>
       <NavigationContainer>
