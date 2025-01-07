@@ -4,7 +4,7 @@ import {Provider} from 'react-redux';
 import {store} from './redux/store';
 
 export default function App() {
-  console.log('feeling meh')
+  console.log('4x a week is crazy')
   return (
     <Provider store={store}>
       <NavigationContainer>
