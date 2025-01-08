@@ -4,7 +4,7 @@ import {Provider} from 'react-redux';
 import {store} from './redux/store';
 
 export default function App() {
-  console.log('dude, im not on windows alright i cant commit anything except this log')
+  console.log('update log 3')
   return (
     <Provider store={store}>
       <NavigationContainer>
